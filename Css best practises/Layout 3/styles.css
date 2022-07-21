@@ -11,7 +11,7 @@
 
 .box {
     border: 4px solid lightgray;
-    height:100px;
+    margin-bottom: 24px;
 }
 
 .box-small {
